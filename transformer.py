@@ -4,9 +4,9 @@ import caffe
 
 parser = argparse.ArgumentParser(description='Convert MXNet model to Caffe model')
 parser.add_argument('--mx-model',    type=str, default='model')
-parser.add_argument('--mx-epoch',    type=int, default=0)
-parser.add_argument('--cf-prototxt', type=str, default='mobilefacenet.prototxt')
-parser.add_argument('--cf-model',    type=str, default='mobilefacenet.prototxt.caffemodel')
+parser.add_argument('--mx-epoch',    type=int, default=1)
+parser.add_argument('--cf-prototxt', type=str, default='mobilefacenet_v2.prototxt')
+parser.add_argument('--cf-model',    type=str, default='mobilefacenet_v2.prototxt.caffemodel')
 args = parser.parse_args()
 
 # ------------------------------------------
@@ -28,8 +28,9 @@ print('----------------------------------\n')
 print('VALID KEYS:')
 for i_key,key_i in enumerate(all_keys):
 
-  try:    
-    
+  # try:
+  #
+  if True:
     if 'data' is key_i:
       pass
     elif '_weight' in key_i:
@@ -68,8 +69,8 @@ for i_key,key_i in enumerate(all_keys):
     print("% 3d | %s -> %s, initialized." 
            %(i_key, key_i.ljust(40), key_caffe.ljust(30)))
     
-  except KeyError:
-    print("\nError!  key error mxnet:{}".format(key_i))  
+  # except KeyError:
+  #   print("\nError!  key error mxnet:{}".format(key_i))
       
 # ------------------------------------------
 # Finish

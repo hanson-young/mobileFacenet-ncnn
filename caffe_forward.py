@@ -5,7 +5,6 @@ import cv2
 import numpy as np
 from scipy.spatial.distance import pdist
 import mxnet as mx
-import numpy as np
 from PIL import Image
 from collections import namedtuple
 import time
@@ -26,9 +25,14 @@ def caffeGetFeature(imgPath):
 	#cv2.imshow("RGB",rgb)
 	#cv2.waitKey(0)
 	#print (rgb)
-	out = net.forward_all( data = rgb ) # out is probability
+	out = net.forward( data = rgb ) # out is probability
 	#print(out['fc1'][0])
+
+	feat = net.blobs['fc1'].data
+	# for layer_name, param in net.params.iteritems():
+	# 	print layer_name
 	a = out['fc1'][0]
+	print(a)
 	return a
 
 ##########################MXnet##########
@@ -122,7 +126,7 @@ def mxnetForward(img):
 counter = 0
 t1 = time.time()
 rs = []
-dir = "lfwAligned/"
+dir = "/home/hanson/DataSet/face-recognition/lfw-112X112/"
 with open('pairs_1.txt') as f:
 	lines = f.readlines()
 	#print(len(lines))

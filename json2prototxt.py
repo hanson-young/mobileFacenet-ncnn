@@ -5,7 +5,7 @@ from prototxt_basic import *
 
 parser = argparse.ArgumentParser(description='Convert MXNet jason to Caffe prototxt')
 parser.add_argument('--mx-json',     type=str, default='model-symbol.json')
-parser.add_argument('--cf-prototxt', type=str, default='mobilefacenet.prototxt')
+parser.add_argument('--cf-prototxt', type=str, default='mobilefacenet_v2.prototxt')
 args = parser.parse_args()
 
 with open(args.mx_json) as json_file:    
