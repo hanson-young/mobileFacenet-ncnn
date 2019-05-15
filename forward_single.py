@@ -9,7 +9,7 @@ from PIL import Image
 from collections import namedtuple
 import time
 
-net = caffe.Net('mobilefacenet.prototxt', 'mobilefacenet.prototxt.caffemodel', caffe.TEST)
+net = caffe.Net('best.prototxt', 'best.prototxt.caffemodel', caffe.TEST)
 
 
 def caffeGetFeature(imgPath):

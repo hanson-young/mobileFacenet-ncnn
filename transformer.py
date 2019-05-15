@@ -3,10 +3,10 @@ import mxnet as mx
 import caffe
 
 parser = argparse.ArgumentParser(description='Convert MXNet model to Caffe model')
-parser.add_argument('--mx-model',    type=str, default='model')
-parser.add_argument('--mx-epoch',    type=int, default=1)
-parser.add_argument('--cf-prototxt', type=str, default='mobilefacenet_v2.prototxt')
-parser.add_argument('--cf-model',    type=str, default='mobilefacenet_v2.prototxt.caffemodel')
+parser.add_argument('--mx-model',    type=str, default='best')
+parser.add_argument('--mx-epoch',    type=int, default=0)
+parser.add_argument('--cf-prototxt', type=str, default='best.prototxt')
+parser.add_argument('--cf-model',    type=str, default='best.prototxt.caffemodel')
 args = parser.parse_args()
 
 # ------------------------------------------

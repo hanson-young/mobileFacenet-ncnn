@@ -8,7 +8,7 @@ import mxnet as mx
 from PIL import Image
 from collections import namedtuple
 import time
-net = caffe.Net('mobilefacenet.prototxt', 'mobilefacenet.prototxt.caffemodel',caffe.TEST)
+net = caffe.Net('heils-face.prototxt', 'heils-face.prototxt.caffemodel',caffe.TEST)
 def caffeGetFeature(imgPath):
 	bgr = cv2.imread(imgPath)
 	#cv2.imshow("BGR",img)
@@ -32,7 +32,7 @@ def caffeGetFeature(imgPath):
 	# for layer_name, param in net.params.iteritems():
 	# 	print layer_name
 	a = out['fc1'][0]
-	print(a)
+	# print(a)
 	return a
 
 ##########################MXnet##########
@@ -152,7 +152,7 @@ with open('pairs_1.txt') as f:
 		#print(line)
 
 
-with open('rs.txt','w') as f:
+with open('rs-heils.txt','w') as f:
 	for r in rs:
 		f.write(r + "\n")
 

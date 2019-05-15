@@ -2,28 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33223029-4064-4f04-9e17-53ebe3ac8e0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f5000.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forward_single.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fp32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model-0001.params" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model-y1-softmax12-0000.params" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model-y1-softmax12-symbol.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mxnet2ncnn/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mxnet2ncnn/inference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mxnet2ncnn/model-y1-softmax12-0000.params" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mxnet2ncnn/model-y1-softmax12-symbol.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mxnet2ncnn/test_china_op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mxnet2ncnn/test_precision_loss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/re_flw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/re_flw_512.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roc_metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/best-0000.params" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/int8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/detect_face.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/feature_compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/3015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/3015_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/3704.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/3704_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/4202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/4202_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/4935.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/4935_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/6432.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/6432_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/7521.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/7521_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/A.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/B.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/images/images.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/make_child.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/model/det1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/model/det2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/model/det3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mxnet-server/test_feature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/caffe_forward.py" beforeDir="false" afterPath="$PROJECT_DIR$/caffe_forward.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forward_single.py" beforeDir="false" afterPath="$PROJECT_DIR$/forward_single.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fp32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fp32.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/json2prototxt.py" beforeDir="false" afterPath="$PROJECT_DIR$/json2prototxt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model-symbol.json" beforeDir="false" afterPath="$PROJECT_DIR$/model-symbol.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/roc.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilefacenet.prototxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilefacenet.prototxt.caffemodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilefacenet_v2.prototxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobilefacenet_v2.prototxt.caffemodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-0000.params" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-0001.params" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-symbol.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-y1-softmax12-0000.params" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-y1-softmax12-symbol.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mxnet2ncnn/B.npy" beforeDir="false" afterPath="$PROJECT_DIR$/mxnet2ncnn/B.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mxnet2ncnn/inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/mxnet2ncnn/mxnet_inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mxnet2ncnn/model-0000.params" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mxnet2ncnn/model-symbol.json" beforeDir="false" afterPath="$PROJECT_DIR$/best-symbol.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mxnet2ncnn/model-y1-softmax12-0000.params" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mxnet2ncnn/model-y1-softmax12-symbol.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mxnet2ncnn/test_precision_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/mxnet2ncnn/test_precision_loss.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/transformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/transformer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,36 +61,43 @@
     <session id="-1805634236">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.38" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="params" value="3" />
-          <entry key="prototxt" value="4" />
-          <entry key="py" value="22" />
-          <entry key="txt" value="9" />
+          <entry key="json" value="1" />
+          <entry key="md" value="1" />
+          <entry key="params" value="6" />
+          <entry key="prototxt" value="7" />
+          <entry key="py" value="40" />
+          <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="22" />
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Python" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="prototxt" value="12" />
-          <entry key="py" value="438" />
+          <entry key="dummy" value="6" />
+          <entry key="prototxt" value="20" />
+          <entry key="py" value="807" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="438" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Python" value="807" />
         </counts>
       </usages-collector>
     </session>
@@ -73,87 +105,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/caffe_forward.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="142" column="31" selection-start-line="142" selection-start-column="31" selection-end-line="142" selection-end-column="31" />
-              <folding>
-                <element signature="e#15#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forward_single.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="44" column="10" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mxnet2ncnn/test_china_op.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="66">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/json2prototxt.py">
+        <entry file="file://$PROJECT_DIR$/mxnet2ncnn/mxnet_inference.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobilefacenet_v2.prototxt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3960">
-              <caret line="180" column="4" selection-start-line="180" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/re_flw_512.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/roc_metrics.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mxnet2ncnn/test_precision_loss.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mxnet2ncnn/inference.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="105" column="61" lean-forward="true" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
+            <state relative-caret-position="380">
+              <caret line="117" column="47" selection-start-line="117" selection-start-column="47" selection-end-line="117" selection-end-column="47" />
               <folding>
                 <element signature="e#16#54#0" expanded="true" />
               </folding>
@@ -162,10 +126,78 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/re_flw.txt">
+        <entry file="file://$PROJECT_DIR$/json2prototxt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="220">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/best.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/transformer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/roc_metrics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mxnet2ncnn/test_precision_loss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fp32.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mxnet-server/feature_compare.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="187" selection-start-line="187" selection-end-line="187" />
+              <folding>
+                <element signature="e#16#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mxnet-server/test_feature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -183,6 +215,7 @@
     <findStrings>
       <find>mul</find>
       <find>bn6f</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -193,14 +226,19 @@
       <list>
         <option value="$PROJECT_DIR$/test_precision_loss.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
-        <option value="$PROJECT_DIR$/caffe_forward.py" />
-        <option value="$PROJECT_DIR$/forward_single.py" />
         <option value="$PROJECT_DIR$/mxnet2ncnn/test_china_op.py" />
-        <option value="$PROJECT_DIR$/json2prototxt.py" />
         <option value="$PROJECT_DIR$/mobilefacenet_v2.prototxt" />
-        <option value="$PROJECT_DIR$/transformer.py" />
-        <option value="$PROJECT_DIR$/mxnet2ncnn/test_precision_loss.py" />
+        <option value="$PROJECT_DIR$/heils-face.prototxt" />
+        <option value="$PROJECT_DIR$/caffe_forward.py" />
         <option value="$PROJECT_DIR$/mxnet2ncnn/inference.py" />
+        <option value="$PROJECT_DIR$/mxnet-server/make_child.py" />
+        <option value="$PROJECT_DIR$/json2prototxt.py" />
+        <option value="$PROJECT_DIR$/best.prototxt" />
+        <option value="$PROJECT_DIR$/transformer.py" />
+        <option value="$PROJECT_DIR$/forward_single.py" />
+        <option value="$PROJECT_DIR$/mxnet-server/feature_compare.py" />
+        <option value="$PROJECT_DIR$/mxnet2ncnn/mxnet_inference.py" />
+        <option value="$PROJECT_DIR$/mxnet2ncnn/test_precision_loss.py" />
         <option value="$PROJECT_DIR$/roc_metrics.py" />
       </list>
     </option>
@@ -216,6 +254,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,13 +265,17 @@
             <path>
               <item name="mobileFacenet-ncnn" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobileFacenet-ncnn" type="462c0819:PsiDirectoryNode" />
+              <item name="mxnet-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobileFacenet-ncnn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobileFacenet-ncnn" type="462c0819:PsiDirectoryNode" />
               <item name="mxnet2ncnn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,27 +304,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.roc_metrics">
-    <configuration name="caffe_forward" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mobileFacenet-ncnn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/caffe_forward.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="forward_single" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mobileFacenet-ncnn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -304,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inference" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mxnet_inference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mobileFacenet-ncnn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,7 +339,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mxnet2ncnn/inference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mxnet2ncnn/mxnet_inference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,20 +390,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="transformer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mobileFacenet-ncnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH" value="/usr/local/cuda-9.0/lib64" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transformer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.caffe_forward" />
-      <item itemvalue="Python.forward_single" />
-      <item itemvalue="Python.roc_metrics" />
       <item itemvalue="Python.test_precision_loss" />
-      <item itemvalue="Python.inference" />
+      <item itemvalue="Python.transformer" />
+      <item itemvalue="Python.forward_single" />
+      <item itemvalue="Python.mxnet_inference" />
+      <item itemvalue="Python.roc_metrics" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.roc_metrics" />
-        <item itemvalue="Python.forward_single" />
-        <item itemvalue="Python.inference" />
         <item itemvalue="Python.test_precision_loss" />
-        <item itemvalue="Python.caffe_forward" />
+        <item itemvalue="Python.mxnet_inference" />
+        <item itemvalue="Python.forward_single" />
+        <item itemvalue="Python.transformer" />
       </list>
     </recent_temporary>
   </component>
@@ -399,14 +443,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="247" width="1853" height="1048" extended-state="0" />
+    <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19617486" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18924618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32845187" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32608697" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3378661" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,11 +495,6 @@
           <line>34</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mxnet2ncnn/test_precision_loss.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -472,110 +512,92 @@
     <entry file="file://$PROJECT_DIR$/pairs_1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/geRoc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plotRoc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/model-0000.params">
+    <entry file="file://$PROJECT_DIR$/model-0000.params" />
+    <entry file="file://$PROJECT_DIR$/model-0001.params" />
+    <entry file="file://$PROJECT_DIR$/mobilefacenet.prototxt" />
+    <entry file="file://$PROJECT_DIR$/mxnet2ncnn/model-0000.params" />
+    <entry file="file://$PROJECT_DIR$/f5000.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/model-0001.params">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobilefacenet.prototxt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44330">
-          <caret line="2015" column="15" selection-start-line="2015" selection-start-column="11" selection-end-line="2015" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prototxt_basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5016">
-          <caret line="229" column="9" selection-start-line="229" selection-start-column="9" selection-end-line="229" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transformer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="62" column="49" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json2prototxt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobilefacenet_v2.prototxt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3960">
-          <caret line="180" column="4" selection-start-line="180" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mobilefacenet_v2.prototxt" />
     <entry file="file://$PROJECT_DIR$/re_flw_512.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/prototxt_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4246">
+          <caret line="194" column="23" selection-start-line="194" selection-start-column="23" selection-end-line="194" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/caffe_forward.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="142" column="31" selection-start-line="142" selection-start-column="31" selection-end-line="142" selection-end-column="31" />
+        <state relative-caret-position="319">
+          <caret line="148" column="34" selection-start-line="148" selection-start-column="34" selection-end-line="148" selection-end-column="34" />
           <folding>
             <element signature="e#15#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mxnet2ncnn/model-0000.params">
+    <entry file="file://$PROJECT_DIR$/geRoc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plotRoc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rs-heils.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="5473" column="6" lean-forward="true" selection-start-line="5473" selection-start-column="6" selection-end-line="5473" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heils-face.prototxt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43627">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/int8.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mxnet2ncnn/inference.py">
+    <entry file="file://$PROJECT_DIR$/mxnet-server/detect_face.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="105" column="61" lean-forward="true" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
+        <state relative-caret-position="1302">
+          <caret line="848" lean-forward="true" selection-start-line="848" selection-end-line="848" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mxnet2ncnn/test_china_op.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <element signature="e#16#54#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forward_single.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="44" column="10" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/f5000.txt">
+    <entry file="file://$PROJECT_DIR$/heils-0000.params">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mxnet2ncnn/test_precision_loss.py">
+    <entry file="file://$PROJECT_DIR$/heils-symbol.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="220">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -586,23 +608,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/best-0000.params">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mxnet-server/make_child.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="66">
+            <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json2prototxt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/best.prototxt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transformer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forward_single.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mxnet-server/test_feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mxnet-server/feature_compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+          <folding>
+            <element signature="e#16#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mxnet2ncnn/mxnet_inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="117" column="47" selection-start-line="117" selection-start-column="47" selection-end-line="117" selection-end-column="47" />
+          <folding>
+            <element signature="e#16#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mxnet2ncnn/test_precision_loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fp32.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/roc_metrics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mxnet2ncnn/test_china_op.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="396">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
         </state>
       </provider>
     </entry>
